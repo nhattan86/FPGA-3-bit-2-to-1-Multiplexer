@@ -1,4 +1,4 @@
-# FPGA-3-bit-2-to-1-Multiplexer
+# FPGA-MUX_2to1_3bit
 
 This VHDL code implements a **3-bit 2-to-1 Multiplexer** by cascading three single-bit 2-to-1 multiplexers.
 
